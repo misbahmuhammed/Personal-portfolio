@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d415cec3.css",
+    "main.js": "/my-portfolio/static/js/main.323270fb.js",
+    "static/media/home.png": "/my-portfolio/static/media/home.6b19d1e75cbeb20385e0.png",
+    "static/media/my2.jpeg": "/my-portfolio/static/media/my2.57de0d99080610dff8a2.jpeg",
+    "static/media/me.png": "/my-portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/my.jpg": "/my-portfolio/static/media/my.2dd62166e6ef712542e8.jpg",
+    "static/media/portfolio5.png": "/my-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Misbah_Resume.pdf": "/my-portfolio/static/media/Misbah_Resume.1f35f2b92aa9f295e7c8.pdf",
+    "static/media/portfolio.jpg": "/my-portfolio/static/media/portfolio.8b4a162f26cde11b456f.jpg",
+    "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/todo.jpg": "/my-portfolio/static/media/todo.c22de590b8fe127f974d.jpg",
+    "static/media/portfolio1.jpg": "/my-portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/my-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/my-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.d415cec3.css.map": "/my-portfolio/static/css/main.d415cec3.css.map",
+    "main.323270fb.js.map": "/my-portfolio/static/js/main.323270fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d415cec3.css",
+    "static/js/main.323270fb.js"
+  ]
+}
